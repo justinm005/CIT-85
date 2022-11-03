@@ -1,0 +1,51 @@
+/*001*/
+body {
+    width: 200px;
+    height: 400px;
+    border-style: dashed;
+}
+
+/*001*/
+h1 {
+    color: red;
+}
+
+/*001*/
+p {
+    color: yellow;
+}
+
+/*101*/
+div#red {
+    color: black;
+}
+
+/*102*/
+div#red p {
+    color: red;
+}
+
+/*100*/
+#red {
+    color: red;
+}
+
+/*010*/
+.blue {
+    color: blue;
+}
+
+/*011*/
+p.green {
+    color: green;
+}
+
+/*011*/
+p.orange {
+    color: orange;
+}
+
+/*011*/
+p.orange {
+    color: aqua;
+}
